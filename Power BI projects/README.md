@@ -2,4 +2,4 @@
 Этот проект представляет собой визуализацию данных по продажам в различных филиалах (ФО) с использованием Power BI. Цель проекта - предоставить наглядное представление ключевых показателей продаж.
 Все файлы, относящиеся к этому проекту имеют названия "Sales_by_districts".
 
-![отчет продаж по филиалам](Portfolio/Power BI projects/images/screenshot1.png)
+![отчет продаж по филиалам](https://github.com/Dron4illa/Portfolio/blob/main/Power%20BI%20projects/images/screenshot1.png)
